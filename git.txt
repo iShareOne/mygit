@@ -1,0 +1,2 @@
+Git is powerful.
+Git is a version control system.
